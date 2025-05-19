@@ -18,12 +18,12 @@ In the fast-paced software development field, efficiency is life. Today, we will
 One-sentence generation application
 As shown in the figure below, select Chat mode in CodeBuddy and enter your own requirements:
 
-The requirements are as follows: Use Vue 3+Vite+Elementiplus technology stack to realize an electronic photo album project.
+The requirements are as follows: bnb89Use Vue 3+Vite+Elementiplus technology stack to realize an electronic photo album project.
 
 
 Then follow the generated tips to develop applications, and truly realize the brainless development mode.
 
-Analytical response
+Analytical responsebnb89
 When we put forward our own requirements, CodeBuddy returned the corresponding content to us, and then we can develop according to the prompts. This process is not explained too much.
 We mainly analyze the rationality of the response content.
 
@@ -44,20 +44,20 @@ As shown in the following figure, the model also gives the directory structure o
 
 
 
-Core code implementation
+Core code implementation bnb89
 After the project structure is displayed, it will be the content of the core code area. We just need to copy = "Create file/folder =" and paste it according to the prompts. As shown in the figure below, there is a path prompt in front of each code block, which needs attention, because the created project may not change the folder or file.
 
 
 
 Follow the prompts of the core code to copy and paste.
 
-Project operation
+Project operation bnb89
 When all the operations are completed according to the prompts, we run the project to see the effect.
 The effect is as follows:
 
 
 
-Obviously, the running effect at this time does not really run our project, but the default framework project.
+Obviously, the running effect at this time does not really run our project, but the default framework project. www.bnb89.com
 
 summary
 Judging from the content of the model reply, the idea is clear and won't confuse the developers, but the final operation effect is problematic. I think it may be that there is less relevant training, but it doesn't matter. In the next chapter, we will explain how to deal with this situation.
